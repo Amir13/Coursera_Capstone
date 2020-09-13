@@ -1,7 +1,16 @@
 Introducction
 
+This report has as purpose  
+
 To complete capstone, you will be working on a case study which is to predict the severity of an accident. 
 Take the conditions as weather, road conditions to predict the probabilities of a car accident and the severity
 
 Business Problem
 
+
+
+Data
+
+
+The information is labeled and unbalanced, contained the information about the accident severity
+The CSV contains 37 attributes (columns)
