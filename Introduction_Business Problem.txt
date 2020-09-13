@@ -1,3 +1,7 @@
-Hi
-asd
-asd
+Introducction
+
+To complete capstone, you will be working on a case study which is to predict the severity of an accident. 
+Take the conditions as weather, road conditions to predict the probabilities of a car accident and the severity
+
+Business Problem
+
