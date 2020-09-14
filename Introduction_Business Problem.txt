@@ -1,14 +1,17 @@
 Introducction
 
+Car accidents can occur all the time, however there are some conditions were the probabilities of have an accident arise due multiple variables.
+
 This report has as purpose develop a model to predict the probabilities of have a car accident and severity, based on different conditions as weather or road conditions.
 
+The information was provided by Seattle Police Department from 2004 to 2020.
 
-from 2004 to 2020
 
-To complete capstone, you will be working on a case study which is to predict the severity of an accident. 
-Take the conditions as weather, road conditions to predict the probabilities of a car accident and the severity
 
 Business Problem
+
+Identify the conditions that can cause future car accidents in order to alarm the people with anticipation to be aware and drive more carefullly.
+
 
 
 
