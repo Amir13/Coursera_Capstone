@@ -3,6 +3,7 @@ Introducction
 This report has as purpose develop a model to predict the probabilities of have a car accident and severity, based on different conditions as weather or road conditions.
 
 
+from 2004 to 2020
 
 To complete capstone, you will be working on a case study which is to predict the severity of an accident. 
 Take the conditions as weather, road conditions to predict the probabilities of a car accident and the severity
@@ -16,3 +17,6 @@ Data
 
 The information is labeled and unbalanced, contained the information about the accident severity
 The CSV contains 37 attributes (columns)
+
+The information comes from Seattle Police Department and recorded by Traffic Records and include Collisions at intersection or mid-block of a segment.
+The period is from 2004 to May 2020
